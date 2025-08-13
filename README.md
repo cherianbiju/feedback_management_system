@@ -20,10 +20,10 @@ A full-stack web application for collecting and managing user feedback. Includes
 - **frontend/** – React code
 - **backend/** – Flask backend
 - **database/feedback.db** – SQLite database
-- **screenshots/** – Visual previews of the app
+- **demo/** – Visual previews of the app
 - **README.md** – Project documentation
 
 ## Demo / Screenshots
-- Login page, feedback form, and dashboard screenshots are included in the `demo/` folder.
+- Login page, feedback form, and dashboard screenshots and videos are included in the `demo/` folder.
 
 
